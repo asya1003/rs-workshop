@@ -1,4 +1,5 @@
 some text for heeder
--new changes !!change from <first>
+-new changes !!
+change from <first>
 change from master
 

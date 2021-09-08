@@ -1,2 +1,5 @@
 some text
+<<<<<<< HEAD
 
+=======
+>>>>>>> c616dfa (add footer)
